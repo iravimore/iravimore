@@ -5,25 +5,23 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iravimore" alt="iravimore" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iravimore" target="blank"><img src="https://img.shields.io/twitter/follow/iravimore?logo=twitter&style=for-the-badge" alt="iravimore" /></a> </p>
+- 🔭 I’m currently working on **Production-Grade DevOps & SRE Projects.**
 
-- 🔭 I’m currently working on **Production-Grade DevOps & SRE Projects**
+- 🌱 I’m currently learning **Kubernetes, Terraform.**
 
-- 🌱 I’m currently learning **Kubernetes, Terraform**
+- 👯 I’m looking to collaborate on **DevOps, Kubernetes & Cloud-Native Projects.**
 
-- 👯 I’m looking to collaborate on **DevOps, Kubernetes & Cloud-Native Projects**
-
-- 🤝 I’m looking for help with **System Design & Deep Cloud Architecture**
+- 🤝 I’m looking for help with **System Design & Deep Cloud Architecture.**
 
 - 👨‍💻 All of my projects are available at [ravimore.in](ravimore.in)
 
 - 📝 I regularly write articles on [blagos.in](blagos.in)
 
-- 💬 Ask me about **Linux, Cloud, Kubernetes & Production Troubleshooting**
+- 💬 Ask me about **Linux, Cloud, Kubernetes & Production Troubleshooting.**
 
 - 📫 How to reach me **ravi@ravimore.in**
 
-- ⚡ Fun fact **I enjoy breaking systems just to learn how to make them more reliable**
+- ⚡ Fun fact **I enjoy breaking systems just to learn how to make them more reliable.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
