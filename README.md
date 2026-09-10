@@ -2,132 +2,66 @@
   
 Hi 👋, I'm Ravi More
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DEVOPS+%26+SRE+ENGINEER;DESIGNER+%26+AUTOMATE;PRODUCTION+EXPERIENCE;SYSTEM+DON'T+SLEEP,+NEITHER+DO+I)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DEVOPS+%26+SRE+ENGINEER;DESIGNER+%26+BUILDER+%26+AUTOMATOR;PRODUCTION+RELIABILITY+EXPERIENCE;SYSTEM+DON'T+SLEEP,+NEITHER+DO+I)](https://git.io/typing-svg)
 
 </div>
 
-
-<h3 align="center">
-DevOps & SRE Engineer with a deep passion for designing, automating, and maintaining reliable production systems.
-</h3>
-
-<p align="center">
-  <a href="https://github.com/iravimore">
-    <img src="https://komarev.com/ghpvc/?username=iravimore&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-</p>
-
 ---
+
+I'm an **SRE Engineer-Production Support Engineer** focused on **Cloud Infrastructure, Automation, DevOps, Production Support, and System Reliability** from 🇮🇳 India, with **4+ years** of professional experience in the banking business environment. I'm passionate about designing and building **production-ready architectures** including cloud infrastructure, while continuously **learning, documenting, and implementing practical DevOps knowledge**.
+
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Production-Grade DevOps & SRE Projects**
-- 🌱 Currently learning **AWS, Kubernetes, Terraform, CI/CD & Observability**
-- 👯 Looking to collaborate on **DevOps, Kubernetes & Cloud-Native Projects**
-- 🤝 Looking to improve my skills in **System Design & Cloud Architecture**
+- 🔭 Currently working on **Production Grade DevOps & SRE Projects**
+- 🌱 Exploring and learning about **MLOps, AIOps, DevSecOps, FinOps & Emerging Technologies**
+- 👯 Looking to collaborate on **Open-Source Projects & Production Issues**
 - 💬 Ask me about **Linux, Cloud, Kubernetes & Production Troubleshooting**
 - 📝 Writing about **DevOps, SRE, Cloud & Production Troubleshooting**
 - ⚡ Fun fact: **I enjoy breaking systems to learn how to make them more reliable.**
 
 ---
 
+
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
+### **CLOUD & DEVOPS**
 
 <p align="left">
-<a href="https://aws.amazon.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS"/>
-</a>
-
-<a href="https://azure.microsoft.com/">
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45" height="45" alt="Azure"/>
-</a>
-
-<a href="https://cloud.google.com/">
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="45" height="45" alt="GCP"/>
-</a>
-
-<a href="https://www.terraform.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" height="45" alt="Terraform"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
 </p>
 
-### 🐳 Containers & Orchestration
+### **LANGUAGES**
 
 <p align="left">
-<a href="https://www.docker.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  </p>
 
-<a href="https://kubernetes.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="45" height="45" alt="Kubernetes"/>
-</a>
 
-<a href="https://helm.sh/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" width="45" height="45" alt="Helm"/>
-</a>
-
-<a href="https://argo-cd.readthedocs.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" width="45" height="45" alt="ArgoCD"/>
-</a>
-</p>
-
-### 🔄 CI/CD & Automation
+### **MONITORING & OBSERVABILITY**
 
 <p align="left">
-<a href="https://www.jenkins.io/">
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45" height="45" alt="Jenkins"/>
-</a>
+<img src="https://cdn.simpleicons.org/splunk" alt="splunk" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/grafana" alt="grafana" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/dynatrace" alt="dynatrace" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman" alt="postman" width="40" height="40"/>
+ </p>
+  
+### **DATABASES**
 
-<a href="https://github.com/features/actions">
-<img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" width="45" height="45" alt="GitHub Actions"/>
-</a>
-
-<a href="https://www.gnu.org/software/bash/">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="45" height="45" alt="Bash"/>
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-</a>
-</p>
-
-### 📊 Observability
-
-<p align="left">
-<a href="https://prometheus.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" width="45" height="45" alt="Prometheus"/>
-</a>
-
-<a href="https://grafana.com/">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="45" height="45" alt="Grafana"/>
-</a>
-
-<a href="https://grafana.com/oss/loki/">
-<img src="https://grafana.com/static/img/logos/logo-loki.svg" width="45" height="45" alt="Loki"/>
-</a>
-</p>
-
-### 🐧 Systems & Databases
-
-<p align="left">
-<a href="https://www.linux.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
-</a>
-
-<a href="https://www.mysql.com/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/>
-</a>
-
-<a href="https://redis.io/">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="45" height="45" alt="Redis"/>
-</a>
-</p>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
 ---
 
