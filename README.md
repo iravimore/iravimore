@@ -73,75 +73,6 @@ I'm an **SRE Engineer-Production Support Engineer** focused on **Cloud Infrastru
 
 ---
 
-# ⭐ Featured Projects
-
-> Production-focused projects demonstrating DevOps, SRE, Cloud, Automation and Reliability Engineering.
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 Kubernetes Platform
-
-**Kubernetes • Helm • ArgoCD • Terraform • AWS**
-
-Production-style Kubernetes platform with GitOps, automated deployment and observability.
-
-[View Project →](https://github.com/iravimore)
-
-</td>
-
-<td width="50%">
-
-### 🔐 DevSecOps Pipeline
-
-**Jenkins • Docker • Trivy • SonarQube • Kubernetes**
-
-Automated build, testing, security scanning, deployment and rollback.
-
-[View Project →](https://github.com/iravimore)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ☁️ AWS Infrastructure
-
-**AWS • Terraform • Docker • Kubernetes**
-
-Infrastructure-as-Code based cloud environment with scalable architecture.
-
-[View Project →](https://github.com/iravimore)
-
-</td>
-
-<td width="50%">
-
-### 📊 SRE Observability
-
-**Prometheus • Grafana • Loki • Alertmanager**
-
-Monitoring, alerting, incident detection and SRE-oriented observability.
-
-[View Project →](https://github.com/iravimore)
-
-</td>
-</tr>
-</table>
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iravimore&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iravimore&layout=compact&hide_border=true" height="180"/>
-</p>
-
----
-
 # 🔥 Contribution Streak
 
 <p align="center">
@@ -150,50 +81,25 @@ Monitoring, alerting, incident detection and SRE-oriented observability.
 
 ---
 
-# 🐍 Contribution Activity
+## 📡 Connect With Me
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/iravimore/iravimore/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-ravimore.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.ravimore.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iravimore/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i.ravimore/)
+[![Email](https://img.shields.io/badge/Email-ravi@ravimore.in-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravi@ravimore.in)
+[![YouTube](https://img.shields.io/badge/YouTube-ravimore-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@iravimore)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/iravimore)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@i.ravimore)
 
----
+</div>
 
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iravimore&hide_border=true" alt="Contribution Activity Graph"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=iravimore&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies"/>
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/iravimore">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35" height="35" alt="LinkedIn"/>
-</a>
-
-<a href="https://instagram.com/i.ravimore">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="35" height="35" alt="Instagram"/>
-</a>
-
-<a href="https://www.youtube.com/@iravimore">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="35" height="35" alt="YouTube"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
+<div align="center">
+  
 <strong>Build • Automate • Break • Troubleshoot • Improve</strong>
-</p>
+  
+![Profile Views](https://komarev.com/ghpvc/?username=iravimore&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/iravimore?label=Follow&style=social)](https://github.com/LondheShubham153)
+
+</div>
