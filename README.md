@@ -13,7 +13,7 @@ Hi 👋, I'm Ravi More
 ┌──[root@production]─[~]
 └─$ whoami
 
-[+] SRE Engineer-Production Support Engineer at HCLTech.
+[+] Software Engineer - SRE at HCLTech.
 [+] Focused on Cloud Infrastructure, Automation, DevOps, Production Support, and System Reliability.
 [+] 4+ years of professional SRE experience in the BANKING DOMAIN.
 [+] Passionate about designing and building production-ready architectures including cloud infrastructure.
