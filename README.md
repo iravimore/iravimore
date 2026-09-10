@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ravi More</h1>
+<div align="center">
+  
+Hi 👋, I'm Ravi More
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DEVOPS+%26+SRE+ENGINEER;DESIGNER+%26+AUTOMATE;PRODUCTION+EXPERIENCE;SYSTEM+DON'T+SLEEP,+NEITHER+DO+I)](https://git.io/typing-svg)
+
+</div>
+
 
 <h3 align="center">
 DevOps & SRE Engineer with a deep passion for designing, automating, and maintaining reliable production systems.
