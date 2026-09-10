@@ -34,7 +34,7 @@ STATUS: ████████████████████ 100% OPERAT
 ---
 
 <br>
-<br>
+
 
 ## 🧩 Tech Stack
 
@@ -85,6 +85,7 @@ STATUS: ████████████████████ 100% OPERAT
  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 
 ---
+<br>
 
 # 🔥 Contribution Streak
 
@@ -93,6 +94,7 @@ STATUS: ████████████████████ 100% OPERAT
 </p>
 
 ---
+<br>
 
 ## 📡 Connect With Me
 
