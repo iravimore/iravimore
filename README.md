@@ -11,19 +11,19 @@ Hi 👋, I'm Ravi More
 I'm an **SRE Engineer-Production Support Engineer** focused on **Cloud Infrastructure, Automation, DevOps, Production Support, and System Reliability** from 🇮🇳 India, with **4+ years** of professional experience in the banking business environment. I'm passionate about designing and building **production-ready architectures** including cloud infrastructure, while continuously **learning, documenting, and implementing practical DevOps knowledge**.
 
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently working on **Production Grade DevOps & SRE Projects**
-- 🌱 Exploring and learning about **MLOps, AIOps, DevSecOps, FinOps & Emerging Technologies**
-- 👯 Looking to collaborate on **Open-Source Projects & Production Issues**
-- 💬 Ask me about **Linux, Cloud, Kubernetes & Production Troubleshooting**
+- 🛠️ Currently working on **Production Grade DevOps & SRE Projects**
+- 🔭 Exploring and learning about **MLOps, AIOps, DevSecOps, FinOps & Emerging Technologies**
+- 🤝 Looking to collaborate on **Open-Source Projects & Production Issues**
+- 💡 Ask me about **Linux, Cloud, Kubernetes & Production Troubleshooting**
 - 📝 Writing about **DevOps, SRE, Cloud & Production Troubleshooting**
-- ⚡ Fun fact: **I enjoy breaking systems to learn how to make them more reliable.**
+- 🎯 Fun fact: **I enjoy breaking systems to learn how to make them more reliable.**
 
 ---
 
 
-## 🛠️ Tech Stack
+## 🧩 Tech Stack
 
 ### **CLOUD & DEVOPS**
 
@@ -97,9 +97,12 @@ I'm an **SRE Engineer-Production Support Engineer** focused on **Cloud Infrastru
 
 <div align="center">
   
-<strong>Build • Automate • Break • Troubleshoot • Improve</strong>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=00C853&center=true&vCenter=true&width=600&lines=Build+%E2%80%A2+Automate+%E2%80%A2+Break+%E2%80%A2+Troubleshoot+%E2%80%A2+Improve)](https://git.io/typing-svg)
   
 ![Profile Views](https://komarev.com/ghpvc/?username=iravimore&color=brightgreen&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/iravimore?label=Follow&style=social)](https://github.com/LondheShubham153)
 
 </div>
+
+
+
