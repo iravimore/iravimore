@@ -7,18 +7,29 @@ Hi 👋, I'm Ravi More
 </div>
 
 ---
+## 🧑‍💻 `~/About-Me`🚀
 
-I'm an **SRE Engineer-Production Support Engineer** focused on **Cloud Infrastructure, Automation, DevOps, Production Support, and System Reliability** from 🇮🇳 India, with **4+ years** of professional experience in the banking business environment. I'm passionate about designing and building **production-ready architectures** including cloud infrastructure, while continuously **learning, documenting, and implementing practical DevOps knowledge**.
+```bash
+┌──[root@production]─[~]
+└─$ whoami
 
+[+] SRE Engineer-Production Support Engineer
+[+] Focused on Cloud Infrastructure, Automation, DevOps, Production Support, and System Reliability
+[+] 4+ years of professional SRE experience in the BANKING DOMAIN
+[+] Passionate about designing and building production-ready architectures including cloud infrastructure
+[+] Continuous Tasks : Learning, Documenting, and Implementing practical DevOps knowledge
 
-## 🧑‍💻 About Me
+STATUS: ████████████████████ 100% OPERATIONAL
+```
+<br>
+<br>
 
-- 🛠️ Currently working on **Production Grade DevOps & SRE Projects**
-- 🔭 Exploring and learning about **MLOps, AIOps, DevSecOps, FinOps & Emerging Technologies**
-- 🤝 Looking to collaborate on **Open-Source Projects & Production Issues**
-- 💡 Ask me about **Linux, Cloud, Kubernetes & Production Troubleshooting**
-- 📝 Writing about **DevOps, SRE, Cloud & Production Troubleshooting**
-- 🎯 Fun fact: **I enjoy breaking systems to learn how to make them more reliable.**
+* 🛠️ **`CURRENTLY_BUILDING`** → Production Grade **DevOps & SRE Projects**
+* 🔭 **`EXPLORING`** → **MLOps • AIOps • DevSecOps • FinOps • Emerging Technologies**
+* 🤝 **`LOOKING_TO_COLLABORATE`** → Open-Source Projects & **Real-World Production Issues**
+* 💡 **`ASK_ME_ABOUT`** → Linux • Cloud • Kubernetes • **Production Troubleshooting**
+* 📝 **`WRITING_ABOUT`** → DevOps • SRE • Cloud • **Production Scenario's**
+* 🎯 **`FUN_FACT`** → `I enjoy breaking systems to learn how to make them more reliable.`
 
 ---
 
